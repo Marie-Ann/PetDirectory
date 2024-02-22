@@ -1,0 +1,22 @@
+form{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+/*.form-control{
+    width: 25%;
+
+}*/
+
+#passwordRule{
+    color: #A5A6A7;
+    font-size: 12px;
+}
+
+a{
+    color: #000;
+}
+a:hover{
+    color: #C7C8C8;
+}

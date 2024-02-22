@@ -1,0 +1,39 @@
+body{
+    background-image: url("C:/xampp/htdocs/PetDirectory/images/puppy.jpg");
+    background-repeat: no-repeat;
+    background-size: 500px;
+}
+
+div h1{
+    text-align: right;
+    padding: 10px 15px;
+    padding-top: 50px;
+    color: #8BB9CE;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+div p{
+    text-align: right; 
+    padding: 10px 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 50px;
+    margin-right: 80px;
+}
+.form-group{
+    width: 25%;
+    position: absolute;
+    right: 250px;
+    width: 300px;
+}
+button{
+    position: absolute;
+    right: 300px;
+    transform: translate(-175px, 150px);
+}
+a{
+    position: absolute;
+    right: 250px;
+}
+a:hover{
+    text-decoration: none;
+    color: #738D99;
+}
