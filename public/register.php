@@ -15,5 +15,7 @@
             echo "Could not leave first name, last name, password, and email blank";
             exit;
         }
+
+        
     }
 
